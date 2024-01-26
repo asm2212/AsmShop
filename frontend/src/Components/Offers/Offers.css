@@ -43,3 +43,12 @@
     justify-content: flex-end;
     padding-top: 50px;
 }
+@media(max-width:1280px){
+    .offers{
+        padding: 0px 80px;
+        margin-bottom: 120px;
+    }
+    .offers-left h1{
+        font-size: 40px;
+    }
+}

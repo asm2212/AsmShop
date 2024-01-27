@@ -1,8 +1,10 @@
 
 .hero {
-    background: linear-gradient(180deg,#fde1ff,#e1ffea,60%);
+    /* background: linear-gradient(180deg,#fde1ff,#e1ffea,60%);      */
+    /* background: linear-gradient(180deg,#ce09dc,#0ac642,60%) */
     display: flex;
     height: 100vh;
+    background: #c2dde6;
  
   }
   

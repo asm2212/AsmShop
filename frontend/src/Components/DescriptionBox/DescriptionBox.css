@@ -1,5 +1,6 @@
 .descriptionbox{
     margin: 120px 170px;
+    background: #c2dde6;
 }
 .descriptionbox-navigator{
     display: flex;

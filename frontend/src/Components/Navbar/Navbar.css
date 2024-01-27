@@ -4,6 +4,7 @@
     padding: 15px 0px;
     box-shadow: 0px 1px 3px -2px black;
     align-items: center;
+    background: #c2dde6;
 }
 .nav-logo{
     display: flex;

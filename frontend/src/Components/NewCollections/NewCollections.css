@@ -1,6 +1,7 @@
 .new-collections{
     display: flex;
     flex-direction: column;
+    background: #c2dde6;
     align-items: center;
     gap: 10px;
     margin-bottom: 100px;

@@ -10,8 +10,9 @@
 .nav-logo{
     width: 200px;
 }
-.nav-profile{
+.profile{
     width: 75px;
+    border-radius: 50%;
 }
 @media(max-width:800px){
     .navbar{
@@ -20,7 +21,8 @@
     .nav-logo{
         width: 150px;
     }
-    .nav-profile{
+    .profile{
         width: 60px;
+        border-radius: 50%;
     }
 }

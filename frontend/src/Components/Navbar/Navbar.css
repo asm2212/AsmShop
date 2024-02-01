@@ -4,7 +4,7 @@
     padding: 15px 0px;
     box-shadow: 0px 1px 3px -2px black;
     align-items: center;
-    background: #c2dde6;
+    background: #001F3F;
 }
 .nav-logo{
     display: flex;
@@ -12,7 +12,7 @@
     gap: 10px;
 }
 .nav-logo p{
-    color: #171717;
+    color: #001F3F;
     font-size: 35px;
     font-weight: 600;
 }
@@ -21,7 +21,7 @@
   align-items: center;
   list-style: none;
   gap: 50px;
-  color: #626262;
+  color: #001F3F;
   font-size: 25px;
   font-weight: 500;
 
@@ -39,7 +39,21 @@
     width: 80%;
     height: 3px;
     border-radius: 10px;
-    background: #FF4141;
+    background: white;
+}
+
+.nav-search input{
+    width: 70px;
+    gap: 0px;
+    border: none;
+    background: white;
+    background-color: white;
+    border-radius: 0%;
+}
+.nav-search button{
+    height: 19px;
+    width: 70px;
+    background-color: white;
 }
 
 .nav-login-cart{

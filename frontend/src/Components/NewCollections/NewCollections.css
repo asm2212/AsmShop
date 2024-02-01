@@ -1,13 +1,13 @@
 .new-collections{
     display: flex;
     flex-direction: column;
-    background: #c2dde6;
+    background: #ffd1dc;
     align-items: center;
     gap: 10px;
     margin-bottom: 100px;
 }
 .new-collections h1{
-    color: #171717;
+    color: #001f3f;
     font-size: 50px;
     font-weight: 600;
 }
@@ -15,7 +15,7 @@
     width: 200px;
     height: 6px;
     border-radius: 10px;
-    background: #252525;
+    background: #ffd1dc;
 }
 .collections{
     display: grid;

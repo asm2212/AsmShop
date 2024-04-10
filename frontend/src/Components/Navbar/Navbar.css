@@ -1,10 +1,7 @@
 .navbar{
     display: flex;
     justify-content: space-around;
-    padding: 15px 0px;
-    box-shadow: 0px 1px 3px -2px black;
     align-items: center;
-    background: #001F3F;
 }
 .nav-logo{
     display: flex;
@@ -44,17 +41,13 @@
 
 .nav-search input{
     width: 70px;
-    gap: 0px;
-    border: none;
     background: white;
-    background-color: white;
-    border-radius: 0%;
 }
-.nav-search button{
+/* .nav-search button{
     height: 19px;
     width: 70px;
     background-color: white;
-}
+} */
 
 .nav-login-cart{
     display: flex;

@@ -1,6 +1,8 @@
 ##  ASMShop 
 ![image](https://github.com/asm2212/AsmShop/assets/146835831/b54e7449-98e2-49c1-b5c2-1352c7177e77)
 ![image](https://github.com/asm2212/AsmShop/assets/146835831/1dfe42dc-a049-4337-9090-192ab472757c)
+![image](https://github.com/asm2212/AsmShop/assets/146835831/255875ad-63f2-43e0-ba7d-b930270822e4)
+
 
 
 a responsive e-commerce website that allows users to browse products, add them to their cart, and proceed to checkout. The application is built using React for the frontend, Node.js and Express for the backend, and MongoDB for the database.

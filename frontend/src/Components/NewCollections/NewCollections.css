@@ -1,7 +1,7 @@
 .new-collections{
     display: flex;
     flex-direction: column;
-    background: #ffd1dc;
+    /* background: #ffd1dc; */
     align-items: center;
     gap: 10px;
     margin-bottom: 100px;

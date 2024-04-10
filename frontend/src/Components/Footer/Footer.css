@@ -1,16 +1,16 @@
 .footer{
     display: flex;
     flex-direction: column;
-    background:  #FFD1DC;
+    /* background:  #FFD1DC; */
     justify-content: center;
     align-items: center;
     gap: 50px;
 }
-.footer-logo{
+/* .footer-logo{
     display: flex;
     align-items: center;
     gap: 20px;
-}
+} */
 .footer-logo p{
     color:  #0a57a4;
     font-size: 46px;

@@ -28,15 +28,12 @@ MongoDB: A NoSQL database used to store product information, user data, and orde
 ##  Installation
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/asm2212/AsmShop.git
+
 cd asmshop
 
 ##  Install dependencies:
 
-bash
-Copy code
 npm install
 Set up the MongoDB database:
 
@@ -44,13 +41,9 @@ Create a MongoDB database and obtain the connection URI.
 
 Create a .env file in the root directory and add the following:
 
-env
-Copy code
 MONGODB_URI=your_mongodb_uri
 Run the development server:
 
-bash
-Copy code
 npm run dev
 
 ##  Usage
